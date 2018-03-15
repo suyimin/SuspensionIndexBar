@@ -13,7 +13,7 @@
 
     </android.support.v7.widget.RecyclerView>
 
-    <com.mcxtzhang.indexlib.IndexBar.widget.IndexBar
+    <com.xdroid.IndexBar.widget.IndexBar
         android:id="@+id/indexBar"
         android:layout_width="24dp"
         android:layout_height="match_parent"
