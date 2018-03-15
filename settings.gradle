@@ -1,2 +1,2 @@
-include ':app', ':indexlib'
+include ':app', ':susindexbar'
 include ':swipemenu'
